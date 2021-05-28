@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baltunoglu&count_private=true)-->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baltunoglu&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baltunoglu&show_icons=true&title_color=33)
 
 
 
