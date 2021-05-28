@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baltunoglu&show_icons=true&title_color=33)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baltunoglu&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baltunoglu&show_icons=true&theme=dark)
 
 
