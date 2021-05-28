@@ -1,5 +1,3 @@
-### Hi there  Ben bir bal porsuğuyum👋
-
 <!--
 **baltunoglu/baltunoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
